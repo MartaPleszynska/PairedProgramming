@@ -12,5 +12,6 @@ p {
 
 .tiger {
   float: left;
+  padding: 10px;
   width: 50%;
 }
