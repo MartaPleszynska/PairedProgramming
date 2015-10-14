@@ -1,3 +1,16 @@
 main {
   margin: auto;
 }
+
+img {
+  width: 100%;
+}
+
+p {
+  overflow: auto;
+}
+
+.tiger {
+  float: left;
+  width: 50%;
+}
